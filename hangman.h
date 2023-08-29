@@ -40,7 +40,7 @@ void get_available_letters(const char letters_guessed[], char available_letters[
  *
  * @param secret the secret word lowercase
  */
-void hangman(const char secret[]);
+// void hangman(const char secret[]);
 
 
 /**
